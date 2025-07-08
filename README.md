@@ -14,11 +14,7 @@ A fully responsive, modern college website designed using HTML, CSS, and JavaScr
 - JavaScript
 
 ## 📸 Screenshots
-![Screenshot 1](screenshot/Screenshot-1.jpeg)  
-![Screenshot 2](screenshot/Screenshot-2.jpeg)  
-![Screenshot 3](screenshot/Screenshot-3.jpeg)  
-![Screenshot 4](screenshot/Screenshot-4.jpeg)  
-![Screenshot 5](screenshot/Screenshot-5.jpeg)
+![Screenshot 1](screenshot/Screenshot.png)  
 
 ## 💡 Key Features
 - ✅ Fully responsive design (mobile, tablet, desktop)
